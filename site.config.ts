@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Van's Trips',
+  name: 'Van's Trip',
   domain: 'https://www.notion.so/Van-s-Trip-17e9d5a1eb8f4f508532aef0e380238e',
   author: 'Van Ma',
 
